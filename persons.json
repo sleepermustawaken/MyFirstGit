@@ -1,0 +1,17 @@
+{
+       "person1" : {
+	"first_name" : "Tim", 
+	"last_name" : "Cook", 
+	"id": 1
+       },
+       "person2" : { 
+	"first_name" : "Jeff",
+	"last_name" : "Bezos",
+	"id": 2
+       },
+       "person3" : { 
+	"first_name" : "Satya", 
+	"last_name" : "Nadella",
+	"id": 3
+       }
+}
